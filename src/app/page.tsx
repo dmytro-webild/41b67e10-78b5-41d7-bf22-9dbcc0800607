@@ -93,7 +93,7 @@ export default function LandingPage() {
           href: "#about",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/front-view-woman-reading-tarot-home_23-2150273209.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/front-view-woman-reading-tarot-home_23-2150273209.jpg?_wi=1"
       imageAlt="Elegant model wearing traditional Ethiopian attire"
       mediaAnimation="reveal-blur"
       avatars={[
@@ -167,7 +167,7 @@ export default function LandingPage() {
           description: "Actively supporting and promoting Ethiopian heritage arts.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048364.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048364.jpg?_wi=1"
       imageAlt="Ethiopian artisan weaving traditional fabric"
       mediaAnimation="reveal-blur"
     />
@@ -182,19 +182,19 @@ export default function LandingPage() {
         {
           title: "Direct Artisan Partnerships",
           description: "Fair collaborations ensuring artisans receive equitable compensation and recognition for their craft.",
-          imageSrc: "http://img.b2bpic.net/free-photo/group-diverse-teens-young-people-doing-activities-together-celebrating-world-youth-skills-day_23-2151478270.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/group-diverse-teens-young-people-doing-activities-together-celebrating-world-youth-skills-day_23-2151478270.jpg?_wi=1",
           imageAlt: "Hands exchanging handcrafted fabric",
         },
         {
           title: "Sustainable Material Sourcing",
           description: "Utilizing locally sourced, environmentally friendly materials that honor both tradition and nature.",
-          imageSrc: "http://img.b2bpic.net/free-photo/threads-sewing-accessories-basket-top-view_23-2148827173.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/threads-sewing-accessories-basket-top-view_23-2148827173.jpg?_wi=1",
           imageAlt: "Close up of luxury raw cotton fibers",
         },
         {
           title: "Cultural Preservation Initiatives",
           description: "Investing in programs that educate and empower the next generation of Ethiopian weavers and designers.",
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-texture-background_53876-32080.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/colorful-texture-background_53876-32080.jpg?_wi=1",
           imageAlt: "Ancient Ethiopian pattern designs in a book",
         },
       ]}
@@ -289,7 +289,7 @@ export default function LandingPage() {
           tag: "Attire",
           avatarSrc: "http://img.b2bpic.net/free-photo/positive-excited-young-woman-showing-thumbs-up-having-fun_1262-14331.jpg",
           avatarAlt: "Lila Mekonnen",
-          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-reading-tarot-home_23-2150273209.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/front-view-woman-reading-tarot-home_23-2150273209.jpg?_wi=2",
           imageAlt: "elegant ethiopian woman portrait studio",
         },
         {
@@ -301,7 +301,7 @@ export default function LandingPage() {
           tag: "Bespoke",
           avatarSrc: "http://img.b2bpic.net/free-photo/young-businessman-happy-expression_1194-1551.jpg",
           avatarAlt: "Dr. Elias Tesfaye",
-          imageSrc: "http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048364.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/woman-making-origami-with-japanese-paper_23-2149048364.jpg?_wi=2",
           imageAlt: "elegant ethiopian woman portrait studio",
         },
         {
@@ -313,7 +313,7 @@ export default function LandingPage() {
           tag: "Heritage",
           avatarSrc: "http://img.b2bpic.net/free-photo/african-american-woman-violet-dress-cap-posed-outdoor_627829-2125.jpg",
           avatarAlt: "Sofia Hassan",
-          imageSrc: "http://img.b2bpic.net/free-photo/group-diverse-teens-young-people-doing-activities-together-celebrating-world-youth-skills-day_23-2151478270.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/group-diverse-teens-young-people-doing-activities-together-celebrating-world-youth-skills-day_23-2151478270.jpg?_wi=2",
           imageAlt: "elegant ethiopian woman portrait studio",
         },
         {
@@ -325,7 +325,7 @@ export default function LandingPage() {
           tag: "Jewelry",
           avatarSrc: "http://img.b2bpic.net/free-photo/african-american-business-man-suit_1303-15071.jpg",
           avatarAlt: "Samuel Getachew",
-          imageSrc: "http://img.b2bpic.net/free-photo/threads-sewing-accessories-basket-top-view_23-2148827173.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/threads-sewing-accessories-basket-top-view_23-2148827173.jpg?_wi=2",
           imageAlt: "elegant ethiopian woman portrait studio",
         },
         {
@@ -337,7 +337,7 @@ export default function LandingPage() {
           tag: "Design",
           avatarSrc: "http://img.b2bpic.net/free-photo/friendly-afro-man-traditional-yellow-clothes-restaurant-hold-cap-hand_627829-1082.jpg",
           avatarAlt: "Zahara Ahmed",
-          imageSrc: "http://img.b2bpic.net/free-photo/colorful-texture-background_53876-32080.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/colorful-texture-background_53876-32080.jpg?_wi=2",
           imageAlt: "elegant ethiopian woman portrait studio",
         },
       ]}
